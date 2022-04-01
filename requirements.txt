@@ -1,0 +1,2 @@
+# Multiple Algo
+pycaret-ts-alpha
