@@ -1,0 +1,196 @@
+2022-02-24/18:33:31		CSV file readed Sucessfully !!
+2022-02-24/18:33:31		Returning the Datafreme !!
+2022-02-24/18:35:02		CSV file readed Sucessfully !!
+2022-02-24/18:35:02		Returning the Datafreme !!
+2022-02-24/18:36:58		CSV file readed Sucessfully !!
+2022-02-24/18:36:58		Returning the Datafreme !!
+2022-02-24/18:54:51		CSV file readed Sucessfully !!
+2022-02-24/18:54:51		Returning the Datafreme !!
+2022-02-24/18:55:00		CSV file readed Sucessfully !!
+2022-02-24/18:55:00		Returning the Datafreme !!
+2022-02-24/18:55:34		CSV file readed Sucessfully !!
+2022-02-24/18:55:34		Returning the Datafreme !!
+2022-02-24/19:00:30		CSV file readed Sucessfully !!
+2022-02-24/19:00:30		Returning the Datafreme !!
+2022-02-24/19:02:28		CSV file readed Sucessfully !!
+2022-02-24/19:02:28		Returning the Datafreme !!
+2022-02-24/19:04:16		CSV file readed Sucessfully !!
+2022-02-24/19:04:16		Returning the Datafreme !!
+2022-02-24/19:07:47		CSV file readed Sucessfully !!
+2022-02-24/19:07:47		Returning the Datafreme !!
+2022-02-24/19:07:51		Pycaret is initialised Sucessfully !!
+2022-02-24/19:10:53		Found the best model Sucessfully !!
+2022-02-24/19:10:53		Done results in dataframe Sucessfully !!
+2022-02-24/19:10:53		CSV File created Sucessfully !!
+2022-02-25/11:30:48		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:00:17		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:02:38		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:40:32		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:40:32		'makeResults' object has no attribute 'df_results'
+2022-02-25/12:45:00		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:45:00		'makeResults' object has no attribute 'df_results'
+2022-02-25/12:46:02		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:46:02		'makeResults' object has no attribute 'df_results'
+2022-02-25/12:48:53		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:48:53		'makeResults' object has no attribute 'df_results'
+2022-02-25/12:50:23		Data must be a pandas Series or DataFrame, got object of <class 'AttributeError'> type!
+2022-02-25/12:50:23		'makeResults' object has no attribute 'df_results'
+2022-02-25/12:56:42		'_io.BytesIO' object has no attribute 'file'
+2022-02-25/12:56:42		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/12:56:42		'makeResults' object has no attribute 'df_results'
+2022-02-25/13:30:59		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/13:30:59		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/13:30:59		'NoneType' object has no attribute 'to_csv'
+2022-02-25/13:32:20		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/13:32:20		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/13:32:20		'NoneType' object has no attribute 'to_csv'
+2022-02-25/13:33:21		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/13:33:21		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/13:34:41		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/13:34:41		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/13:37:20		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/13:37:20		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/14:38:48		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/14:38:48		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/14:39:18		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/14:39:18		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/14:39:53		CSV file readed Sucessfully !!
+2022-02-25/14:39:53		Returning the Datafreme !!
+2022-02-25/14:39:57		Pycaret is initialised Sucessfully !!
+2022-02-25/14:43:19		Found the best model Sucessfully !!
+2022-02-25/14:43:19		Done results in dataframe Sucessfully !!
+2022-02-25/14:43:39		'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2022-02-25/14:43:39		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-25/20:03:26		CSV file readed Sucessfully !!
+2022-02-25/20:03:26		Returning the Datafreme !!
+2022-02-25/20:03:28		Pycaret is initialised Sucessfully !!
+2022-02-25/20:07:12		Found the best model Sucessfully !!
+2022-02-25/20:07:12		Done results in dataframe Sucessfully !!
+2022-02-25/21:57:00		File Received from the User !!
+2022-02-25/21:57:00		Frequency Received from the User !!
+2022-02-25/21:57:00		Forecast Period Received from the User !!
+2022-02-25/21:57:00		CSV file readed Sucessfully !!
+2022-02-25/21:57:00		Returning the Datafreme !!
+2022-02-25/21:57:25		Pycaret is initialised Sucessfully !!
+2022-02-25/22:04:39		Found the best model Sucessfully !!
+2022-02-25/22:04:39		Done results in dataframe Sucessfully !!
+2022-02-25/22:07:59		File Received from the User !!
+2022-02-25/22:07:59		Frequency Received from the User !!
+2022-02-25/22:07:59		Forecast Period Received from the User !!
+2022-02-25/22:07:59		CSV file readed Sucessfully !!
+2022-02-25/22:07:59		Returning the Datafreme !!
+2022-02-25/22:08:02		Pycaret is initialised Sucessfully !!
+2022-02-25/22:16:14		Found the best model Sucessfully !!
+2022-02-25/22:16:14		Done results in dataframe Sucessfully !!
+2022-02-25/22:16:14		CSV File created Sucessfully !!
+2022-02-25/22:20:06		File Received from the User !!
+2022-02-25/22:20:06		Frequency Received from the User !!
+2022-02-25/22:20:06		Forecast Period Received from the User !!
+2022-02-25/22:20:06		CSV file readed Sucessfully !!
+2022-02-25/22:20:06		Returning the Datafreme !!
+2022-02-25/22:20:20		Pycaret is initialised Sucessfully !!
+2022-02-25/22:28:18		Found the best model Sucessfully !!
+2022-02-25/22:28:18		Done results in dataframe Sucessfully !!
+2022-02-25/22:28:18		CSV File created Sucessfully !!
+2022-02-26/13:51:55		File Received from the User !!
+2022-02-26/13:51:55		Frequency Received from the User !!
+2022-02-26/13:51:55		Forecast Period Received from the User !!
+2022-02-26/13:51:55		CSV file readed Sucessfully !!
+2022-02-26/13:51:55		Returning the Datafreme !!
+2022-02-26/13:52:11		Pycaret is initialised Successfully !!
+2022-02-26/13:55:54		File Received from the User !!
+2022-02-26/13:55:54		Frequency Received from the User !!
+2022-02-26/13:55:54		Forecast Period Received from the User !!
+2022-02-26/13:58:49		File Received from the User !!
+2022-02-26/13:58:49		Frequency Received from the User !!
+2022-02-26/13:58:49		Forecast Period Received from the User !!
+2022-02-26/13:58:49		CSV file readed Sucessfully !!
+2022-02-26/13:58:49		Returning the Datafreme !!
+2022-02-26/13:58:51		Pycaret is initialised Successfully !!
+2022-02-26/14:06:50		Found the best model !!
+2022-02-26/14:06:50		Forecasting Results are converted into Dataframe !!
+2022-02-26/14:06:50		CSV File created Successfully !!
+2022-02-26/14:11:00		File Received from the User !!
+2022-02-26/14:11:00		Frequency Received from the User !!
+2022-02-26/14:11:00		Forecast Period Received from the User !!
+2022-02-26/14:11:00		CSV file readed Sucessfully !!
+2022-02-26/14:11:00		Returning the Datafreme !!
+2022-02-26/14:11:00		Data must be a pandas Series or DataFrame, got object of <class 'readingdata.fetch.csv_reader'> type!
+2022-02-26/14:11:00		'NoneType' object has no attribute 'to_csv'
+2022-02-26/14:12:36		File Received from the User !!
+2022-02-26/14:12:36		Frequency Received from the User !!
+2022-02-26/14:12:36		Forecast Period Received from the User !!
+2022-02-26/14:13:09		File Received from the User !!
+2022-02-26/14:13:09		Frequency Received from the User !!
+2022-02-26/14:13:09		Forecast Period Received from the User !!
+2022-02-26/14:13:09		CSV file readed Sucessfully !!
+2022-02-26/14:13:09		Returning the Datafreme !!
+2022-02-26/14:13:11		Pycaret is initialised Successfully !!
+2022-02-26/14:21:07		Found the best model !!
+2022-02-26/14:21:07		Forecasting Results are converted into Dataframe !!
+2022-02-26/14:21:07		CSV File created Successfully !!
+2022-02-28/11:03:28		File Received from the User !!
+2022-02-28/11:03:28		Frequency Received from the User !!
+2022-02-28/11:03:28		Forecast Period Received from the User !!
+2022-02-28/11:03:28		'utf-8' codec can't decode byte 0x9e in position 14: invalid start byte
+2022-02-28/11:03:28		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-28/11:03:28		'NoneType' object has no attribute 'to_csv'
+2022-02-28/11:10:45		File Received from the User !!
+2022-02-28/11:10:45		Frequency Received from the User !!
+2022-02-28/11:10:45		Forecast Period Received from the User !!
+2022-02-28/11:10:45		'utf-8' codec can't decode byte 0x9e in position 14: invalid start byte
+2022-02-28/11:10:45		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-28/11:10:45		'NoneType' object has no attribute 'to_csv'
+2022-02-28/11:14:57		File Received from the User !!
+2022-02-28/11:14:57		Frequency Received from the User !!
+2022-02-28/11:14:57		Forecast Period Received from the User !!
+2022-02-28/11:14:57		'utf-8' codec can't decode byte 0x9e in position 14: invalid start byte
+2022-02-28/11:14:57		Data must be a pandas Series or DataFrame, got object of <class 'NoneType'> type!
+2022-02-28/11:16:40		File Received from the User !!
+2022-02-28/11:16:40		Frequency Received from the User !!
+2022-02-28/11:16:40		Forecast Period Received from the User !!
+2022-02-28/11:16:40		CSV file readed Sucessfully !!
+2022-02-28/11:16:40		Returning the Datafreme !!
+2022-02-28/11:16:48		Pycaret is initialised Successfully !!
+2022-02-28/11:23:01		File Received from the User !!
+2022-02-28/11:23:01		Frequency Received from the User !!
+2022-02-28/11:23:01		Forecast Period Received from the User !!
+2022-02-28/11:23:01		CSV file readed Sucessfully !!
+2022-02-28/11:23:01		Returning the Datafreme !!
+2022-02-28/11:23:04		Pycaret is initialised Successfully !!
+2022-02-28/11:27:19		File Received from the User !!
+2022-02-28/11:27:19		Frequency Received from the User !!wa
+2022-02-28/11:27:19		Forecast Period Received from the User !!
+2022-02-28/11:27:19		CSV file readed Sucessfully !!
+2022-02-28/11:27:19		Returning the Datafreme !!
+2022-02-28/11:27:23		Pycaret is initialised Successfully !!
+2022-02-28/13:51:55		File Received from the User !!
+2022-02-28/13:51:55		Frequency Received from the User !!
+2022-02-28/13:51:55		Forecast Period Received from the User !!
+2022-02-28/13:51:55		CSV file readed Sucessfully !!
+2022-02-28/13:51:55		Returning the Datafreme !!
+2022-02-28/13:51:57		Pycaret is initialised Successfully !!
+2022-02-28/22:25:01		File Received from the User !!
+2022-02-28/22:25:01		Frequency Received from the User !!
+2022-02-28/22:25:01		Forecast Period Received from the User !!
+2022-02-28/22:25:01		CSV file read Successfully !!
+2022-02-28/22:25:02		Returning the Dataframe !!
+2022-02-28/22:26:29		Pycaret is initialised Successfully !!
+2022-02-28/22:36:38		Found the best model !!
+2022-02-28/22:36:39		Forecasting Results are converted into Dataframe !!
+2022-02-28/22:36:39		CSV File created Successfully !!
+2022-02-28/22:38:03		File Received from the User !!
+2022-02-28/22:38:03		Frequency Received from the User !!
+2022-02-28/22:38:03		Forecast Period Received from the User !!
+2022-02-28/22:38:03		CSV file read Successfully !!
+2022-02-28/22:38:04		Returning the Dataframe !!
+2022-02-28/22:38:06		Pycaret is initialised Successfully !!
+2022-03-08/10:23:19		File Received from the User !!
+2022-03-08/10:23:19		Frequency Received from the User !!
+2022-03-08/10:23:19		Forecast Period Received from the User !!
+2022-03-08/10:23:19		CSV file read Successfully !!
+2022-03-08/10:23:20		Returning the Dataframe !!
+2022-03-08/10:23:32		Pycaret is initialised Successfully !!
+2022-03-08/10:34:53		Found the best model !!
+2022-03-08/10:34:53		Forecasting Results are converted into Dataframe !!
+2022-03-08/10:34:53		CSV File created Successfully !!
